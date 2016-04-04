@@ -95,7 +95,7 @@ See https://github.com/adobe-type-tools/cmap-resources
               <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
             </button>
 
-            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="52" data-l10n-id="open_file">
+            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView pme-hide" title="Open File" tabindex="52" data-l10n-id="open_file">
               <span data-l10n-id="open_file_label">Open</span>
             </button>
 
@@ -107,7 +107,7 @@ See https://github.com/adobe-type-tools/cmap-resources
               <span data-l10n-id="download_label">Download</span>
             </button>
 
-            <a href="#" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark">
+            <a href="#" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView pme-hide" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark">
               <span data-l10n-id="bookmark_label">Current View</span>
             </a>
 
@@ -120,12 +120,12 @@ See https://github.com/adobe-type-tools/cmap-resources
               <span data-l10n-id="last_page_label">Go to Last Page</span>
             </button>
 
-            <div class="horizontalToolbarSeparator"></div>
+            <div class="horizontalToolbarSeparator pme-hide"></div>
 
-            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise" tabindex="58" data-l10n-id="page_rotate_cw">
+            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw pme-hide" title="Rotate Clockwise" tabindex="58" data-l10n-id="page_rotate_cw">
               <span data-l10n-id="page_rotate_cw_label">Rotate Clockwise</span>
             </button>
-            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw" title="Rotate Counterclockwise" tabindex="59" data-l10n-id="page_rotate_ccw">
+            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw pme-hide" title="Rotate Counterclockwise" tabindex="59" data-l10n-id="page_rotate_ccw">
               <span data-l10n-id="page_rotate_ccw_label">Rotate Counterclockwise</span>
             </button>
 
@@ -335,7 +335,7 @@ See https://github.com/adobe-type-tools/cmap-resources
 <div id="mozPrintCallback-shim" hidden>
   <style>
       .pme-hide {
-        display: none;
+        display: none !important;
       }
   </style>
   <style>
