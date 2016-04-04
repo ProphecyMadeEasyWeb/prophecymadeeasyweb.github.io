@@ -33,10 +33,11 @@ var SCALE_SELECT_CONTAINER_PADDING = 8;
 var SCALE_SELECT_PADDING = 22;
 var PAGE_NUMBER_LOADING_INDICATOR = 'visiblePageIsLoading';
 var DISABLE_AUTO_FETCH_LOADING_BAR_TIMEOUT = 5000;
+var resourceFolder = '/pdfjs-1.3.91-dist/';
 
-PDFJS.imageResourcesPath = './images/';
-  PDFJS.workerSrc = '../build/pdf.worker.js';
-  PDFJS.cMapUrl = '../web/cmaps/';
+PDFJS.imageResourcesPath = resourceFolder  + 'web/images/';
+  PDFJS.workerSrc = resourceFolder + 'build/pdf.worker.js';
+  PDFJS.cMapUrl = resourceFolder + 'web/cmaps/';
   PDFJS.cMapPacked = true;
 
 var mozL10n = document.mozL10n || document.webL10n;
