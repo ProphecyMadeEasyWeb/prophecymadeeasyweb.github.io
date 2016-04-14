@@ -28,20 +28,12 @@
 			background-size: cover;
 		}
 		
-		.blurred {
+		header.blurred:before {
 			-webkit-filter: blur(.5vh);
 			-moz-filter: blur(.5vh);
 			-o-filter: blur(.5vh);
 			-ms-filter: blur(.5vh);
 			filter: blur(.5vh);
-		}
-		
-		.unblurred {
-			-webkit-filter: none;
-			-moz-filter: none;
-			-o-filter: none;
-			-ms-filter: none;
-			filter: none;
 		}
 		
 		.banner-container {
@@ -133,7 +125,7 @@
 </head>
 <body>
 	<header class="banner blurred">
-		<div class="banner-container unblurred">
+		<div class="banner-container">
 			<a class="da-burger" href="#menu"><i class="fa fa-bars"></i>&nbsp;Menu</a>
 			<span class="banner-text">
 				Prophecy Made Easy
