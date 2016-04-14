@@ -141,6 +141,7 @@
 	</style>
 </head>
 <body>
+	<img id="hiddenBackground" style="display: none" src="cover-art-horizontal.png"\>
 	<header class="banner blurred">
 		<div class="banner-container">
 			<a class="da-burger" href="#menu"><i class="fa fa-bars"></i>&nbsp;Menu</a>
@@ -196,7 +197,7 @@
 	Way more stuff goes down here<br/>
 	</section>
 	<script>
-		$('header.banner:before').imagesLoaded( { background: true }, function() {
+		$('#hiddenBackground').imagesLoaded( { background: true }, function() {
   			$("header.blurred").removeClass("blurred");
 		});
 
