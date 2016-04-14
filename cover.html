@@ -23,6 +23,14 @@
 			background-size: cover;
 		}
 		
+		header.loading {
+			-webkit-filter: blur(.5vh);
+			-moz-filter: blur(.5vh);
+			-o-filter: blur(.5vh);
+			-ms-filter: blur(.5vh);
+			filter: blur(.5vh);
+		}
+		
 		.banner-container {
 			font-size: calc(12px + 7vh);
 			font-weight: bold;
@@ -111,7 +119,7 @@
 	</style>
 </head>
 <body>
-	<header class="banner">
+	<header class="banner loading">
 		<div class="banner-container">
 			<a class="da-burger" href="#menu"><i class="fa fa-bars"></i>&nbsp;Menu</a>
 			<span class="banner-text">
