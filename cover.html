@@ -1,14 +1,18 @@
+
 <html>
 <head>
+	<base href="http://prophecymadeeasyweb.github.io/" />
 	<title>Prophecy Made Easy</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
 	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
 	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"  crossorigin="anonymous"></script>
 	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 	<style>
+		* {
+			box-sizing: border-box;
+		}
 		body {
 			min-height: 300px;
-			box-sizing: border-box;
 			margin: 0;
 		}
 		header,footer,section,div,span {
@@ -17,8 +21,8 @@
 		}
 		
 		header.banner {
-			height: 100vh;
-			width: 100vw;
+			height: 95vh;
+			width: 100%;
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -26,8 +30,8 @@
 		}
 		
 		header.banner:before {
-			height: 100vh;
-			width: 100vw;
+			height: 95vh;
+			width: 100%;
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -43,11 +47,11 @@
 		}
 		
 		header.blurred:before {
-			-webkit-filter: blur(.5vh);
-			-moz-filter: blur(.5vh);
-			-o-filter: blur(.5vh);
-			-ms-filter: blur(.5vh);
-			filter: blur(.5vh);
+			-webkit-filter: blur(15px);
+			-moz-filter: blur(15px);
+			-o-filter: blur(15px);
+			-ms-filter: blur(15px);
+			filter: blur(15px);
 		}
 		
 		.banner-container {
@@ -70,13 +74,14 @@
 		footer {
 			position: absolute;
 			display: block;
-			bottom: 0vh;
+			bottom: 7vh;
 			right: 0;
 			padding: 20px;
 			opacity: .4;
 			background-color: white;
 			font-size: calc(12px + 7vh);
 			font-weight: bold;
+			z-index: 1;
 		}
 		
 		.da-burger{
@@ -133,11 +138,15 @@
 			padding: 2vh 2vw;
 			box-sizing: border-box;
 			margin: 0;
+			z-index: 1;
 		}
 		
 		section.main {
 			margin-top: 100vh;
+			z-index: 1;
 		}
+	</style>
+	<style id="animate-blur">
 	</style>
 </head>
 <body>
@@ -198,9 +207,43 @@
 	</section>
 	<script>
 		$('#hiddenBackground').imagesLoaded( { background: true }, function() {
-  			$("header.blurred").removeClass("blurred");
+			animateBlur();
 		});
 
+		function setBlur(element,blurValue){
+			if (blurValue){
+				blurValue = "blur(" + blurValue + "px)";
+			} else {
+				blurValue = "none";
+			}
+			
+			$("#animate-blur").html('		header.blurred:before { \
+					-webkit-transform: translateZ(0);\
+					-webkit-filter: ' + blurValue + ';\
+					-moz-filter: ' + blurValue + ';\
+					-o-filter: ' + blurValue + ';\
+					-ms-filter: ' + blurValue + ';\
+					filter: ' + blurValue + ';\
+				}\
+			');
+		}
+		
+		function animateBlur() {
+			$({blurRadius: 15}).animate({blurRadius: 0}, {
+				duration: 2000,
+				easing: 'swing', // or "linear"
+								 // use jQuery UI or Easing plugin for more options
+				step: function() {
+					console.log(this.blurRadius);
+					setBlur("header.blurred:before",this.blurRadius.toFixed(3));
+				},
+				complete: function () {
+					setBlur("header.blurred:before",0);
+					$("header.blurred").removeClass("blurred");
+				}
+			});
+		}
+		
 	</script>
 	</body>
 </html>
