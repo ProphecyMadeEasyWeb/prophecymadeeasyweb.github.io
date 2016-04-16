@@ -1,14 +1,10 @@
-
 <html>
 <head>
 	<base href="http://prophecymadeeasyweb.github.io/" />
 	<title>Prophecy Made Easy</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
-	<script>
-		var startTime = Date.now();
-	</script>
+	<script>var startTime = Date.now();</script>
 	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"  crossorigin="anonymous"></script>
 	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 	<style>
 		* {
@@ -55,11 +51,10 @@
 		.banner-container {
 			font-size: calc(12px + 7vh);
 			font-weight: bold;
-			color: lightblue;
 			text-align: right;
 			padding: 20px;
 			background-color: white;
-			opacity: .4;
+			opacity: .6;
 		}
 		
 		.banner-text {
@@ -68,6 +63,16 @@
 			white-space: nowrap;
 			font-size: calc(24px + 4vw);
 		}
+
+		.banner-menu {
+			opacity: .5;
+			background-color: black;
+		}
+		
+		.banner-menu a {
+			color: white;
+			opacity: 1;
+		}
 		
 		footer {
 			position: absolute;
@@ -75,24 +80,23 @@
 			bottom: 7vh;
 			right: 0;
 			padding: 20px;
-			opacity: .4;
+			opacity: .6;
 			background-color: white;
-			font-size: calc(12px + 7vh);
+			font-size: calc(12px + 1vh);
 			font-weight: bold;
 			z-index: 1;
 		}
 		
 		.da-burger{
-			display: block;
-			float: left;
 			padding: 20px;
 			top: 0;
 			left: 0;
 			font-size: calc(6px + 4vh);
+			margin-right: 100px;
 		}
 		
 		a {
-			color: black;
+			xcolor: black;
 			text-decoration: none;
 		}
 		
@@ -116,7 +120,7 @@
 		}
 		
 		.banner-link{
-			font-size: calc(4px + 3vh);
+			font-size: calc(4px + 2vh);
 		}
 		
 		h2 {
@@ -157,22 +161,25 @@
 <body>
 	<img id="hiddenBackground" style="display: none" src="cover-art-horizontal.png"\>
 	<header class="banner blurred">
-		<div class="banner-container">
+		<div class="banner-menu">
 			<a class="da-burger" href="#menu"><i class="fa fa-bars"></i>&nbsp;Menu</a>
+			<span class="banner-link"><a href="/ReadOnline.html">Read Online</a> &bull;
+			<a href="/pdf/ProphecyMadeEasy.pdf">Free eBook</a></span>
+		</div>
+		<div class="banner-container">
 			<span class="banner-text">
 				Prophecy Made Easy
 			</span><br/>
-			<span class="banner-link"><a href="/ReadOnline.html">Read Online</a> &bull;
-			<a href="/pdf/ProphecyMadeEasy.pdf">eBook</a></span>
 		</div>
 	</header>
 	<footer>
-	by Glen Walker
+	"Prophecy Made Easy" book by Glen Walker<br/>
+	"Four Horsemen of the Apocalypse" art work by Nathan Greene
 	</footer>
 	<nav>
 		<a class="nav-target" name="menu"></a>
 		<h2>Resources</h2>
-		<a id="hideMenu" href="#" id="hideMenu" style="color: white; border: 2px solid white; position: absolute; right: 10px; top: 10px; font-size: 3vh; font-weight: bold;">X</a>
+		<a id="hideMenu" href="#" id="hideMenu" style="color: white; background-color: darkgray; padding: 4px; position: absolute; right: 10px; top: 10px; font-size: 3vh; font-weight: bold;"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
 		<script>
 		$(".da-burger").click( function () {
 			$("nav").animate({ left: '+=80vw' });
@@ -211,6 +218,20 @@
 	Way more stuff goes down here<br/>
 	</section>
 	<script>
+		$(document).ready(function() {
+			$("#bookmarkme").click(function() {
+			  if (window.sidebar) { // Mozilla Firefox Bookmark
+				window.sidebar.addPanel(location.href,document.title,"");
+			  } else if(window.external) { // IE Favorite
+				window.external.AddFavorite(location.href,document.title); }
+			  else if(window.opera && window.print) { // Opera Hotlist
+				this.title=document.title;
+				return true;
+			  }
+			});
+		});
+	</script>
+	<script id="background-loading-and-animatiom">
 		$('#hiddenBackground').imagesLoaded( { background: true }, function() {
 			animateBlur();
 		});
