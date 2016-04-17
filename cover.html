@@ -110,12 +110,10 @@
 				
 		ul.sections > li {
 			font-weight: bold;
-			color: white;
 			font-size: calc(10px + 5vh);
 		}
 		
 		ul.sections a {
-			color: white;
 			font-size: calc(4px + 3vh);
 		}
 		
@@ -129,8 +127,8 @@
 		}
 		
 		nav {
-			background-color: black;
-			opacity: .8;
+			background-color: white;
+			opacity: .9;
 			width: 80vw;
 			left: -80vw;
 			position: absolute;
@@ -140,7 +138,26 @@
 			padding: 2vh 2vw;
 			box-sizing: border-box;
 			margin: 0;
-			z-index: 1;
+			z-index: 5;
+		}
+		
+		button.clicker {
+			position: absolute;
+			display: block;
+			height: 100%;
+			width: 100%;
+			top: 0;
+			left: 0;
+			margin: 0;
+			padding: 0;
+			z-index: 2;
+			opacity: 0;
+		}
+		
+		nav,
+		nav a
+		{
+			color: black;
 		}
 		
 		section.main {
@@ -159,6 +176,7 @@
 </head>
 <body>
 	<img id="hiddenBackground" style="display: none" src="images/cover-art-horizontal.png" />
+	<button class="clicker" style="display: none" ></button>
 	<header class="banner blurred">
 		<div class="banner-menu">
 			<a class="da-burger" href="#menu"><i class="fa fa-bars"></i>&nbsp;Menu</a>
@@ -180,15 +198,28 @@
 		<h2>Resources</h2>
 		<a id="hideMenu" href="#" id="hideMenu" style="color: white; background-color: darkgray; padding: 4px; position: absolute; right: 10px; top: 10px; font-size: 3vh; font-weight: bold;"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
 		<script>
-		$(".da-burger").click( function () {
-			$("nav").animate({ left: '+=80vw' });
+		function ShowNavMenu() {
+			$("nav").animate({ 
+				left: '+=80vw'
+			});
+			
+			$("button.clicker").show();;
+			
 			return false;
-		});
+		}
 		
-		$("#hideMenu").click( function () {
-			$("nav").animate({ left: '-=80vw' });
+		function HideNavMenu() {
+			$("button.clicker").hide();
+		
+			$("nav").animate({ 
+				left: '-=80vw'
+			});
 			return false;
-		});
+		}
+		
+		$(".da-burger").click(ShowNavMenu);
+		$("#hideMenu").click(HideNavMenu);
+		$("button.clicker").click(HideNavMenu);
 		
 		</script>
 		<ul class="sections">
@@ -216,20 +247,6 @@
 	
 	Way more stuff goes down here<br/>
 	</section>
-	<script>
-		$(document).ready(function() {
-			$("#bookmarkme").click(function() {
-			  if (window.sidebar) { // Mozilla Firefox Bookmark
-				window.sidebar.addPanel(location.href,document.title,"");
-			  } else if(window.external) { // IE Favorite
-				window.external.AddFavorite(location.href,document.title); }
-			  else if(window.opera && window.print) { // Opera Hotlist
-				this.title=document.title;
-				return true;
-			  }
-			});
-		});
-	</script>
 	<script id="background-loading-and-animatiom">
 		$('#hiddenBackground').imagesLoaded( { background: true }, function() {
 			animateBlur();
