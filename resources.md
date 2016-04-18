@@ -13,8 +13,8 @@ layout: default
 ## Free Online Bible Studies and Videos ##
 * Amazing Facts
 * Bible Prophecy Truth (by Amazing Facts)
- * Antichrist
- * Armageddon
+  * Antichrist
+  * Armageddon
 
 ## Prophetic Television ##
 * Three Angels Broadcasting Network
