@@ -194,6 +194,10 @@
 	</footer>
 	<nav>
 	   {% include navigation.md %}
+	   
+	   {% capture my-include %}{% include navigation.md %}{% endcapture %}
+	   {{ my-include | markdownify }}
+	   
 	</nav>
 	<section class="main">
 
