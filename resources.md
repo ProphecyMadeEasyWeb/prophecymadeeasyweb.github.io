@@ -4,7 +4,7 @@
 # Prophetic Library #
 ## Books ##
 
-* Prophecy Made Easy
+* ![Alt](/images/pme-cover.png "Book Cover") Prophecy Made Easy
 * The Great Controversy
 * Daniel and Revelation
 * What's Next
