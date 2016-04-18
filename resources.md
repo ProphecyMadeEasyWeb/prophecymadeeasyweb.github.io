@@ -26,10 +26,10 @@
   * Read Online in 37 Languages
 
 ## Free Online Bible Studies and Videos ##
-* [link](http://example.com "Amazing Facts")
-* [link](http://example.com "Bible Prophecy Truth (by Amazing Facts)")
-  * [link](http://example.com "Antichrist")
-  * [link](http://example.com "Armageddon")
+* [Amazing Facts](http://example.com "Amazing Facts")
+* [Bible Prophecy Truth (by Amazing Facts)](http://example.com "Bible Prophecy Truth (by Amazing Facts)")
+  * [Antichrist](http://example.com "Antichrist")
+  * [Armageddon](http://example.com "Armageddon")
 
 ## Prophetic Television ##
 * Three Angels Broadcasting Network
