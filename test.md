@@ -1,6 +1,5 @@
 ---
-title: This is my title
 layout: default
 ---
 
-Here is my page.
+This is a nice test of things
