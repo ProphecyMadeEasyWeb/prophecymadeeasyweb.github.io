@@ -193,8 +193,36 @@
 	"Four Horsemen of the Apocalypse" art work by Nathan Greene
 	</footer>
 	<nav>
-	   {% capture my-include %}{% include navigation.md %}{% endcapture %}
-	   {{ my-include | markdownify }}
+   		<a class="nav-target" name="menu"></a>
+		<a id="hideMenu" href="#" id="hideMenu" style="color: white; background-color: darkgray; padding: 4px; position: absolute; right: 10px; top: 10px; font-size: 3vh; font-weight: bold;"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
+		<script>
+		function ShowNavMenu() {
+			$("nav").animate({ 
+				left: '+=80vw'
+			});
+			
+			$("button.clicker").show();;
+			
+			return false;
+		}
+		
+		function HideNavMenu() {
+			$("button.clicker").hide();
+		
+			$("nav").animate({ 
+				left: '-=80vw'
+			});
+			return false;
+		}
+		
+		$(".da-burger").click(ShowNavMenu);
+		$("#hideMenu").click(HideNavMenu);
+		$("button.clicker").click(HideNavMenu);
+		
+		</script>
+		
+		{% capture my-include %}{% include navigation.md %}{% endcapture %}
+		{{ my-include | markdownify }}
 	</nav>
 	<section class="main">
 
