@@ -1,9 +1,8 @@
 <html>
 <head>
-	<base href="http://prophecymadeeasyweb.github.io/" />
 	<title>Prophecy Made Easy</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
 	<script>var startTime = Date.now();</script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
 	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
 	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 	<style>
@@ -39,15 +38,7 @@
 			display: block;
 			content: "";
 		}
-		
-		header.blurred:before {
-			-webkit-filter: blur(3px);
-			-moz-filter: blur(3px);
-			-o-filter: blur(3px);
-			-ms-filter: blur(3px);
-			filter: blur(3px);
-		}
-		
+
 		.banner-container {
 			font-size: calc(12px + 7vh);
 			font-weight: bold;
@@ -120,11 +111,6 @@
 			font-size: calc(4px + 2vh);
 		}
 		
-		h2 {
-			margin: 1vh;
-			font-size: calc(14px + 6vh);
-		}
-		
 		nav {
 			background-color: white;
 			opacity: .9;
@@ -171,6 +157,13 @@
 		}
 	</style>
 	<style id="animate-blur">
+	header.blurred:before {
+		-webkit-filter: blur(3px);
+		-moz-filter: blur(3px);
+		-o-filter: blur(3px);
+		-ms-filter: blur(3px);
+		filter: blur(3px);
+	}
 	</style>
 </head>
 <body>
@@ -240,13 +233,14 @@
 				blurValue = "none";
 			}
 			
-			$("#animate-blur").html('		header.blurred:before { \
-					-webkit-transform: translateZ(0);\
-					-webkit-filter: ' + blurValue + ';\
-					-moz-filter: ' + blurValue + ';\
-					-o-filter: ' + blurValue + ';\
-					-ms-filter: ' + blurValue + ';\
-					filter: ' + blurValue + ';\
+			$("#animate-blur").html('
+				header.blurred:before { \
+				-webkit-transform: translateZ(0);\
+				-webkit-filter: ' + blurValue + ';\
+				-moz-filter: ' + blurValue + ';\
+				-o-filter: ' + blurValue + ';\
+				-ms-filter: ' + blurValue + ';\
+				filter: ' + blurValue + ';\
 				}\
 			');
 		}
