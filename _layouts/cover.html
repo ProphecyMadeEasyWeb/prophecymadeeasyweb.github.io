@@ -1,10 +1,7 @@
 <html>
 <head>
 	<title>Prophecy Made Easy</title>
-	<script>var startTime = Date.now();</script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
-	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 	<style>
 		* {
 			box-sizing: border-box;
@@ -165,63 +162,10 @@
 		filter: blur(3px);
 	}
 	</style>
-</head>
-<body>
-	<img id="hiddenBackground" style="display: none" src="images/cover-art-horizontal.png" />
-	<button class="clicker" style="display: none" ></button>
-	<header class="banner blurred">
-		<div class="banner-menu">
-			<a class="da-burger" href="#menu"><i class="fa fa-bars"></i>&nbsp;Menu</a>
-			<span class="banner-link"><a href="/ReadOnline.html">Read Online</a> &bull;
-			<a href="/pdf/ProphecyMadeEasy.pdf">Free eBook</a></span>
-		</div>
-		<div class="banner-container">
-			<span class="banner-text">
-				Prophecy Made Easy
-			</span><br/>
-		</div>
-	</header>
-	<footer>
-	"Prophecy Made Easy" book by Glen Walker<br/>
-	"Four Horsemen of the Apocalypse" art work by Nathan Greene
-	</footer>
-	<nav>
-   		<a class="nav-target" name="menu"></a>
-		<a id="hideMenu" href="#" id="hideMenu" style="color: white; background-color: darkgray; padding: 4px; position: absolute; right: 10px; top: 10px; font-size: 3vh; font-weight: bold;"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
-		<script>
-		function ShowNavMenu() {
-			$("nav").animate({ 
-				left: '+=80vw'
-			});
-			
-			$("button.clicker").show();;
-			
-			return false;
-		}
-		
-		function HideNavMenu() {
-			$("button.clicker").hide();
-		
-			$("nav").animate({ 
-				left: '-=80vw'
-			});
-			return false;
-		}
-		
-		$(".da-burger").click(ShowNavMenu);
-		$("#hideMenu").click(HideNavMenu);
-		$("button.clicker").click(HideNavMenu);
-		
-		</script>
-		
-		{% capture my-include %}{% include resources.md %}{% endcapture %}
-		{{ my-include | markdownify }}
-	</nav>
-	<section class="main">
+	<script>var startTime = Date.now();</script>
+	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 
-  {{ content }}
-
-	</section>
 	<script id="background-loading-and-animatiom">
 		$('#hiddenBackground').imagesLoaded( { background: true }, function() {
 			animateBlur();
@@ -276,5 +220,62 @@
 		}
 		
 	</script>
+	<script>
+	function ShowNavMenu() {
+		$("nav").animate({ 
+			left: '+=80vw'
+		});
+		
+		$("button.clicker").show();;
+		
+		return false;
+	}
+	
+	function HideNavMenu() {
+		$("button.clicker").hide();
+	
+		$("nav").animate({ 
+			left: '-=80vw'
+		});
+		return false;
+	}
+	
+	$(".da-burger").click(ShowNavMenu);
+	$("#hideMenu").click(HideNavMenu);
+	$("button.clicker").click(HideNavMenu);
+	
+	</script>
+</head>
+<body>
+	<img id="hiddenBackground" style="display: none" src="images/cover-art-horizontal.png" />
+	<button class="clicker" style="display: none" ></button>
+	<header class="banner blurred">
+		<div class="banner-menu">
+			<a class="da-burger" href="#menu"><i class="fa fa-bars"></i>&nbsp;Menu</a>
+			<span class="banner-link"><a href="/ReadOnline.html">Read Online</a> &bull;
+			<a href="/pdf/ProphecyMadeEasy.pdf">Free eBook</a></span>
+		</div>
+		<div class="banner-container">
+			<span class="banner-text">
+				Prophecy Made Easy
+			</span><br/>
+		</div>
+	</header>
+	<footer>
+	"Prophecy Made Easy" book by Glen Walker<br/>
+	"Four Horsemen of the Apocalypse" art work by Nathan Greene
+	</footer>
+	<nav>
+   		<a class="nav-target" name="menu"></a>
+		<a id="hideMenu" href="#" id="hideMenu" style="color: white; background-color: darkgray; padding: 4px; position: absolute; right: 10px; top: 10px; font-size: 3vh; font-weight: bold;"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
+		
+		{% capture my-include %}{% include resources.md %}{% endcapture %}
+		{{ my-include | markdownify }}
+	</nav>
+	<section class="main">
+
+  {{ content }}
+
+	</section>
 	</body>
 </html>
