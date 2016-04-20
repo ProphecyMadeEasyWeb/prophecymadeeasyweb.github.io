@@ -2,7 +2,7 @@
 layout: cover
 ---
 
-#### WOULD GOD ASK US TO STUDY A BOOK AND EVEN PROMISE TO GIVE US A SPECIAL BLESSING FOR DOING SO, IF WE WERE NOT ABLE TO UNDERSTAND IT? OF COURSE NOT.
+# WOULD GOD ASK US TO STUDY A BOOK AND EVEN PROMISE TO GIVE US A SPECIAL BLESSING FOR DOING SO, IF WE WERE NOT ABLE TO UNDERSTAND IT? OF COURSE NOT.
 
 Many think they are just not knowledgeable enough to wade through a large book on Revelation.  The good news is that you CAN understand Revelation!   
 
@@ -10,13 +10,13 @@ That is why this site is called P.M.E. International – Prophecy Made Easy.
 
 The books, the videos, the prophetic T.V. and the Bible Courses in 10 languages make the book of Revelation EASY for you to understand!  In the first chapter of Revelation Christ has promised a special blessings to those who study Revelation. 
 
-### Did you know that over one million people needlessly lost their lives in 70 A.D. when the Roman armies under General Titus destroyed Jerusalem?
+## Did you know that over one million people needlessly lost their lives in 70 A.D. when the Roman armies under General Titus destroyed Jerusalem?
 
 They perished because they didn't heed the prophetic warning given by Jesus in Luke 21.  Only those who listened and believed His warning escaped. They fled to the land of Perea.
 
 Christ warns us that history will repeat itself.  He wants you to understand His last book of prophecies, the book of Revelation, that you may be safe in the coming crisis! Notice the God implies that Bible prophecy is like the headlights of a car on a dark night.  God says, "We have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts." 2 Peter 1:19.
 
-### A PROPER UNDERSTANDING OF THE BOOK OF REVELATION IS LIKE DRIVING WITH YOUR HEADLIGHTS ON WHEN THE NIGHT IS DARK! 
+## A PROPER UNDERSTANDING OF THE BOOK OF REVELATION IS LIKE DRIVING WITH YOUR HEADLIGHTS ON WHEN THE NIGHT IS DARK! 
 
 In September of 2010, in Wyoming, the highway patrol reported a tragic death.  A university professor named Adrian Bantjes, 50, was driving a 1998 Nissan Pathfinder traveling west on the highway.  Ella Young, age 82, was driving a 1998 Lincoln Town Car, eastbound.  She was driving without headlights in the wrong lane.  The two cars collided head-on in the westbound lane.
 
@@ -24,7 +24,7 @@ Weather conditions at the time were clear and the road was dry. "It is not known
 
 We live in a dangerous world of "death without warning" by heart attacks, tornados, flood, accidents and many other reasons.  Often there is no time to tell your loved ones goodbye. Life is often over in a split second. 
 
-### YOUR CAR'S HEADLIGHTS ALLOW YOU TO SEE ABOUT HALF A MILE INTO THE FUTURE.
+## YOUR CAR'S HEADLIGHTS ALLOW YOU TO SEE ABOUT HALF A MILE INTO THE FUTURE.
 
 Nearly everybody that drives at night is smart enough to turn on his or her headlights. Ella Young was either “foolish” or “confused” but either way her choice to drive without headlights resulted in a terrible tragedy! PME INTERNATIONAL will help you turn on your spiritual headlights of hope and knowledge.  We will light up the future for you like the headlights of a car reveal enough of the future to allow you to travel down the highway without hitting a deer, car, a truck, or a person.  You will be able to better face life and death decisions. 
 
@@ -43,7 +43,7 @@ They are:
 3. "Daniel and Revelation" by Uriah Smith (Read free on the internet).
 4. "What's Next? Visions of Revelation" by Glen Walker Purchase
  
-### PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
+## PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
 
 > "JESUS SAYS, "YOU MUST BE BORN AGAIN!” John 3:3, 7 
 
