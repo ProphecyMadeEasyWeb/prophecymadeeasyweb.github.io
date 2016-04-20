@@ -7,7 +7,7 @@ layout: cover
 They perished because they didn't heed the prophetic warning given by Jesus in Luke 21.  Only those who listened and believed His warning escaped. They fled to the land of Perea.
 Christ warns us that history will repeat itself.  He wants you to understand His last book of prophecies, the book of Revelation, that you may be safe in the coming crisis! Notice the God implies that Bible prophecy is like the headlights of a car on a dark night.  God says, "We have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts." 2 Peter 1:19.
 
-### BEFORE PROCEEDING PLEASE ADD THIS WEBSITE TO YOUR FAVORITES
+#### BEFORE PROCEEDING PLEASE ADD THIS WEBSITE TO YOUR FAVORITES
 
 Press CTRL and “D” to add this site to your favorites.  Press Command and “D” if you’re on a Macintosh.  On mobile, press the menu button and look for the Star  
 Then you will be able to return to this Prophetic Library of 
@@ -17,10 +17,15 @@ Then you will be able to return to this Prophetic Library of
 4. prophetic Bible studies in many languages! 
 
 If you study these valuable resources, you will soon know more than most of the religious leaders, pastors, and teachers know about the past, present and future as revealed in the great prophecies of the Bible.
-A PROPER UNDERSTANDING OF THE BOOK OF REVELATION IS LIKE DRIVING WITH YOUR HEADLIGHTS ON WHEN THE NIGHT IS DARK! 
+
+### A PROPER UNDERSTANDING OF THE BOOK OF REVELATION IS LIKE DRIVING WITH YOUR HEADLIGHTS ON WHEN THE NIGHT IS DARK! 
+
 In September of 2010, in Wyoming, the highway patrol reported a tragic death.  A university professor named Bantjes, 50, was driving a 1998 Nissan Pathfinder traveling west on the highway.  Young, age 82, was driving a 1998 Lincoln Town Car, eastbound.  She was driving without headlights in the wrong lane.  The two cars collided head-on in the westbound lane.
+
 Weather conditions at the time were clear and the road was dry. "It is not known why Young was traveling without headlights and in the wrong lane of travel. Alcohol is not suspected," said the report by highway patrol Sgt. Stephen Townsend. 
+
 We live in a dangerous world of "death without warning" by heart attacks, tornados, flood, accidents and many other reasons.  Often there is no time to tell your loved ones goodbye. Life is often over in a split second. 
+
 > YOUR CAR'S HEADLIGHTS ALLOW YOU TO SEE ABOUT HALF A MILE INTO THE FUTURE.
 
 Most—everybody that drives at night is smart enough to turn on his or her headlights. Ella Young was either “foolish” or “confused” but either way her choice to drive without headlights resulted in a terrible tragedy! PME INTERNATIONAL will help you turn on your spiritual headlights of hope and knowledge.  We will light up the future for you like the headlights of a car reveal enough of the future to allow you to travel down the highway without hitting a deer, car, a truck, or a person.  You will be able to better face life and death decisions. 
@@ -40,10 +45,12 @@ They are:
 3. "Daniel and Revelation" by Uriah Smith (Read free on the internet).
 4. "What's Next? Visions of Revelation" by Glen Walker (E book or paperback).
  
-PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
+### PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
 
-   Many people read the words of Jesus where He said, "unless one is born again, he cannot see the kingdom of God." They question "If I "must" be "born again," what must I do to become "Born again."  You will find the answer to that question by clicking on the red "Born Again link below.'" 
+   Many people read the words of Jesus where He said, "unless one is born again, he cannot see the kingdom of God." They question "If I "must" be "born again," what must I do to become "Born again."  You will find the answer to that question by clicking on the red "Born Again link below.'"
+   
      Our goal?  Our goal is to help you find a happier, better, and eternal life which will be far beyond our limited imagination!  We want to help you live forever with a life that will be far richer than any billionaire and far stronger than the imaginary "superman" of the comic books and movies.  God, Christ, the angels of God and all the saved through the ages will be part of the family of God and forever happy!  
+     
                 "JESUS SAYS, "YOU MUST BE BORN AGAIN!” John 3:3, 7 
                  VIDEO - FINAL EVENTS OF BIBLE PROPHECY
               READ & LEARN – THE PROMISE OF PEACE 
@@ -61,9 +68,11 @@ The Bible course is fully illustrated with great art work. You will understand b
  > YOU, MAY STUDY IT AT ABSOLUTLEY NO COST!
  
                               STUDY
+
  Many think they are just not knowledgeable enough to wade through a large book on Revelation.  The good news is that you can understand Revelation!   
 
 That is why this site is called P.M.E. International – Prophecy Made Easy.  
 
 These three books, the videos, the prophetic T.V. in 7 languages and the Bible
+
 Courses in 10 languages make the book of Revelation EASY for you to understand!  In the first chapter of Revelation Christ has promised a special blessings to those who study Revelation. Would God ask us to study a book and even promise to give us a special blessing for doing so, if we were not able to understand it? Of course not.
