@@ -51,8 +51,8 @@ Many people read the words of Jesus where He said, "unless one is born again, he
  
 Our goal?  Our goal is to help you find a happier, better, and eternal life which will be far beyond our limited imagination!  We want to help you live forever with a life that will be far richer than any billionaire and far stronger than the imaginary "superman" of the comic books and movies.  God, Christ, the angels of God and all the saved through the ages will be part of the family of God and forever happy!  
 
-[VIDEO - FINAL EVENTS OF BIBLE PROPHECY]{http://www.youtube.com/something/)
-[READ & LEARN – THE PROMISE OF PEACE](http://www.example.com)
+* [VIDEO - FINAL EVENTS OF BIBLE PROPHECY](http://www.youtube.com/something/)
+* [READ & LEARN – THE PROMISE OF PEACE](http://www.example.com)
  
 Learn direct from your Bible where these exciting future events are located in your own Bible.  
 
