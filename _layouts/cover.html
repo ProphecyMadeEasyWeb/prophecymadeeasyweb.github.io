@@ -167,57 +167,60 @@
 	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 
 	<script id="background-loading-and-animatiom">
+	function animateAfterLoad() {
 		$('#hiddenBackground').imagesLoaded( { background: true }, function() {
 			animateBlur();
 		});
-		function setBlur(element,blurValue){
-			if (blurValue){
-				blurValue = "blur(" + blurValue + "px)";
-			} else {
-				blurValue = "none";
-			}
-			
-			$("#animate-blur").html('\
-				header.blurred:before { \
-				-webkit-transform: translateZ(0);\
-				-webkit-filter: ' + blurValue + ';\
-				-moz-filter: ' + blurValue + ';\
-				-o-filter: ' + blurValue + ';\
-				-ms-filter: ' + blurValue + ';\
-				filter: ' + blurValue + ';\
-				}\
-			');
+	}
+
+	function setBlur(element,blurValue){
+		if (blurValue){
+			blurValue = "blur(" + blurValue + "px)";
+		} else {
+			blurValue = "none";
 		}
 		
-		function animateBlur() {
-			$("#bgstyle").html('header.banner:before {	background-image: url(images/cover-art-horizontal.png); } ');
-			
-			var animationDuration = 0;
-			var endTime = Date.now();
-			var elapsed = endTime - startTime;
-			
-			if (elapsed < 500){
-				animationDuration = 0;
-			} else if (elapsed < 2000) {
-				animationDuration = 200;
-			} else if (elapsed < 5000) {
-				animationDuration = 600;
-			} else {
-				animationDuration = 1200;
-			}
-			
-			$({blurRadius: 3}).animate({blurRadius: 0}, {
-				duration: animationDuration,
-				easing: 'swing', // or "linear"
-								 // use jQuery UI or Easing plugin for more options
-				step: function() {
-					setBlur("header.blurred:before",this.blurRadius.toFixed(3));
-				},
-				complete: function () {
-					$("header.blurred").removeClass("blurred");
-				}
-			});
+		$("#animate-blur").html('\
+			header.blurred:before { \
+			-webkit-transform: translateZ(0);\
+			-webkit-filter: ' + blurValue + ';\
+			-moz-filter: ' + blurValue + ';\
+			-o-filter: ' + blurValue + ';\
+			-ms-filter: ' + blurValue + ';\
+			filter: ' + blurValue + ';\
+			}\
+		');
+	}
+		
+	function animateBlur() {
+		$("#bgstyle").html('header.banner:before {	background-image: url(images/cover-art-horizontal.png); } ');
+		
+		var animationDuration = 0;
+		var endTime = Date.now();
+		var elapsed = endTime - startTime;
+		
+		if (elapsed < 500){
+			animationDuration = 0;
+		} else if (elapsed < 2000) {
+			animationDuration = 200;
+		} else if (elapsed < 5000) {
+			animationDuration = 600;
+		} else {
+			animationDuration = 1200;
 		}
+		
+		$({blurRadius: 3}).animate({blurRadius: 0}, {
+			duration: animationDuration,
+			easing: 'swing', // or "linear"
+			// use jQuery UI or Easing plugin for more options
+			step: function() {
+				setBlur("header.blurred:before",this.blurRadius.toFixed(3));
+			},
+			complete: function () {
+				$("header.blurred").removeClass("blurred");
+			}
+		});
+	}
 		
 	</script>
 	<script>
