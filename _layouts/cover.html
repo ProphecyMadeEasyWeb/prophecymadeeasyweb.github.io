@@ -243,10 +243,11 @@
 		return false;
 	}
 	
+	function initButtons() {
 	$(".da-burger").click(ShowNavMenu);
 	$("#hideMenu").click(HideNavMenu);
 	$("button.clicker").click(HideNavMenu);
-	
+	}
 	</script>
 </head>
 <body>
@@ -281,5 +282,6 @@
   {{ content }}
 
 	</section>
+	<sript>initButtons()</sript>
 	</body>
 </html>
