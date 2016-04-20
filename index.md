@@ -4,11 +4,11 @@ layout: cover
 
 # You CAN understand Revelation!   
 
-Would god ask us to study a book and even promise to give us a special blessing for doing so, if we were not able to understand it?
+Would God ask us to study a book and even promise to give us a special blessing for doing so, if we were not able to understand it?
 
 Of course not.
 
-Many think they are just not knowledgeable enough to wade through a large book on Revelation.  The good news is that you can understand Revelation. 
+Many think they are just not knowledgeable enough to wade through a large book on Revelation, but the good news is that you can understand Revelation. 
 
 That is why this site is called P.M.E. International – Prophecy Made Easy. 
 
@@ -42,10 +42,10 @@ Rather than helping us understand Bible prophecy, popular religious novels like 
 
 They are:
  
-1. “Prophecy Made Easy" by Glen Walker [Read Free](/readonline.html) &bull; [Download free eBook](/pdf/ProphecyMadeEasy.pdf) &bull; [Purchase](http://example.com/amazon)
+1. “Prophecy Made Easy" by Glen Walker [Read Free](/readonline.html) &bull; [Download free eBook](/pdf/ProphecyMadeEasy.pdf) &bull; [Purchase](http://www.amazon.com/Prophecy-Made-Easy-Glen-Walker/dp/0615113567/)
 2. "The Great Controversy" by E.G. White (Read free on this site). 
 3. "Daniel and Revelation" by Uriah Smith (Read free on the internet).
-4. "What's Next? Visions of Revelation" by Glen Walker [Purchase](http://example.com/amazon)
+4. "What's Next? Visions of Revelation" by Glen Walker [Purchase](http://www.amazon.com/Whats-Next-Visions-Revelation-Walker/dp/0578073544/)
  
 ## PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
 
