@@ -38,21 +38,21 @@ Rather than helping us understand Bible prophecy, popular religious novels like 
 
 They are:
  
-1. “Prophecy Made Easy" by Glen Walker Read Free Download eBook
+1. “Prophecy Made Easy" by Glen Walker [Read Free](/readonline.html) [Download free eBook](/pdf/ProphecyMadeEasy.pdf) [Purchase](http://example.com/amazon)
 2. "The Great Controversy" by E.G. White (Read free on this site). 
 3. "Daniel and Revelation" by Uriah Smith (Read free on the internet).
-4. "What's Next? Visions of Revelation" by Glen Walker Purchase
+4. "What's Next? Visions of Revelation" by Glen Walker [Purchase](http://example.com/amazon)
  
 ## PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
 
 > "JESUS SAYS, "YOU MUST BE BORN AGAIN!” John 3:3, 7 
 
-Many people read the words of Jesus where He said, "unless one is born again, he cannot see the kingdom of God." They question "If I "must" be "born again," what must I do to become "Born again."  You will find the answer to that question by clicking on the red "Born Again link below.'"
+Many people read the words of Jesus where He said, "unless one is born again, he cannot see the kingdom of God." They question "If I "must" be "born again," what must I do to become "Born again."  You will find the answer to that question by reading [The Promise of Peace](http://www.example.com)
  
 Our goal?  Our goal is to help you find a happier, better, and eternal life which will be far beyond our limited imagination!  We want to help you live forever with a life that will be far richer than any billionaire and far stronger than the imaginary "superman" of the comic books and movies.  God, Christ, the angels of God and all the saved through the ages will be part of the family of God and forever happy!  
 
-VIDEO - FINAL EVENTS OF BIBLE PROPHECY
-READ & LEARN – THE PROMISE OF PEACE 
+[VIDEO - FINAL EVENTS OF BIBLE PROPHECY]{http://www.youtube.com/something/)
+[READ & LEARN – THE PROMISE OF PEACE](http://www.example.com)
  
 Learn direct from your Bible where these exciting future events are located in your own Bible.  
 
@@ -64,9 +64,7 @@ Learn direct from your Bible where these exciting future events are located in y
  
 The Bible course is fully illustrated with great art work. You will understand better, after taking these short 24 lessons, reading the books, watching the videos and the T.V. prophecy programs than many ministers know after years of school. 
  
-> YOU MAY STUDY AT ABSOLUTLEY NO COST!
- 
-STUDY
+[FREE BIBLE COURSE](http://example.com)
 
 ### BEFORE PROCEEDING PLEASE ADD THIS WEBSITE TO YOUR FAVORITES
 
