@@ -38,7 +38,7 @@ Rather than helping us understand Bible prophecy, popular religious novels like 
 
 They are:
  
-1. “Prophecy Made Easy" by Glen Walker [Read Free](/readonline.html) [Download free eBook](/pdf/ProphecyMadeEasy.pdf) [Purchase](http://example.com/amazon)
+1. “Prophecy Made Easy" by Glen Walker [Read Free](/readonline.html) &bull; [Download free eBook](/pdf/ProphecyMadeEasy.pdf) &bull; [Purchase](http://example.com/amazon)
 2. "The Great Controversy" by E.G. White (Read free on this site). 
 3. "Daniel and Revelation" by Uriah Smith (Read free on the internet).
 4. "What's Next? Visions of Revelation" by Glen Walker [Purchase](http://example.com/amazon)
