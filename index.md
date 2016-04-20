@@ -36,14 +36,14 @@ PME INTERNATIONAL is dedicated to helping you find true WISDOM and understand th
  
 In order to be the "WISE" Christians to whom God gives eternal everlasting happiness and life we must turn on our spiritual headlights by seeking to understand Bible prophecy. 
 
-Rather than helping us understand Bible prophecy, popular religious novels like “Left Behind” actually blind us to the great truths of Bible prophecy. I have recommend three books that will help you understand the great prophecies of Daniel and Revelation in God's Word. 
+Rather than helping us understand Bible prophecy, popular religious novels like “Left Behind” actually blind us to the great truths of Bible prophecy. I have recommend four books that will help you understand the great prophecies of Daniel and Revelation in God's Word. 
 
 They are:
  
 1. “Prophecy Made Easy" by Glen Walker Read Free Download eBook
 2. "The Great Controversy" by E.G. White (Read free on this site). 
 3. "Daniel and Revelation" by Uriah Smith (Read free on the internet).
-4. "What's Next? Visions of Revelation" by Glen Walker (E book or paperback).
+4. "What's Next? Visions of Revelation" by Glen Walker Purchase
  
 ### PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
 
