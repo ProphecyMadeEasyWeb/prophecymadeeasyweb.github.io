@@ -20,7 +20,7 @@ They perished because they didn't heed the prophetic warning given by Jesus in L
 
 Christ warns us that history will repeat itself.  He wants you to understand His last book of prophecies, the book of Revelation, that you may be safe in the coming crisis! Notice the God implies that Bible prophecy is like the headlights of a car on a dark night.  God says, "We have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts." 2 Peter 1:19.
 
-## A PROPER UNDERSTANDING OF THE BOOK OF REVELATION IS LIKE DRIVING WITH YOUR HEADLIGHTS ON WHEN THE NIGHT IS DARK! 
+## UNDERSTANDING REVELATION IS LIKE DRIVING WITH YOUR HEADLIGHTS ON AFTER DARK! 
 
 In September of 2010, in Wyoming, the highway patrol reported a tragic death.  A university professor named Adrian Bantjes, 50, was driving a 1998 Nissan Pathfinder traveling west on the highway.  Ella Young, age 82, was driving a 1998 Lincoln Town Car, eastbound.  She was driving without headlights in the wrong lane.  The two cars collided head-on in the westbound lane.
 
