@@ -2,9 +2,13 @@
 layout: cover
 ---
 
-# WOULD GOD ASK US TO STUDY A BOOK AND EVEN PROMISE TO GIVE US A SPECIAL BLESSING FOR DOING SO, IF WE WERE NOT ABLE TO UNDERSTAND IT? OF COURSE NOT.
+# You CAN understand Revelation!   
 
-Many think they are just not knowledgeable enough to wade through a large book on Revelation.  The good news is that you CAN understand Revelation!   
+Would god ask us to study a book and even promise to give us a special blessing for doing so, if we were not able to understand it?
+
+Of course not.
+
+Many think they are just not knowledgeable enough to wade through a large book on Revelation.  The good news is that you can understand Revelation. 
 
 That is why this site is called P.M.E. International – Prophecy Made Easy. 
 
