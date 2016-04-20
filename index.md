@@ -2,6 +2,14 @@
 layout: cover
 ---
 
+#### WOULD GOD ASK US TO STUDY A BOOK AND EVEN PROMISE TO GIVE US A SPECIAL BLESSING FOR DOING SO, IF WE WERE NOT ABLE TO UNDERSTAND IT? OF COURSE NOT.
+
+Many think they are just not knowledgeable enough to wade through a large book on Revelation.  The good news is that you CAN understand Revelation!   
+
+That is why this site is called P.M.E. International – Prophecy Made Easy. 
+
+The books, the videos, the prophetic T.V. and the Bible Courses in 10 languages make the book of Revelation EASY for you to understand!  In the first chapter of Revelation Christ has promised a special blessings to those who study Revelation. 
+
 ### Did you know that over one million people needlessly lost their lives in 70 A.D. when the Roman armies under General Titus destroyed Jerusalem?
 
 They perished because they didn't heed the prophetic warning given by Jesus in Luke 21.  Only those who listened and believed His warning escaped. They fled to the land of Perea.
@@ -59,14 +67,6 @@ The Bible course is fully illustrated with great art work. You will understand b
 > YOU MAY STUDY AT ABSOLUTLEY NO COST!
  
 STUDY
-
-Many think they are just not knowledgeable enough to wade through a large book on Revelation.  The good news is that you can understand Revelation!   
-
-That is why this site is called P.M.E. International – Prophecy Made Easy.  
-
-The books, the videos, the prophetic T.V. and the Bible Courses in 10 languages make the book of Revelation EASY for you to understand!  In the first chapter of Revelation Christ has promised a special blessings to those who study Revelation. 
-
-#### Would God ask us to study a book and even promise to give us a special blessing for doing so, if we were not able to understand it? Of course not.
 
 ### BEFORE PROCEEDING PLEASE ADD THIS WEBSITE TO YOUR FAVORITES
 
