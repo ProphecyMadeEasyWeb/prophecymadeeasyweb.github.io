@@ -37,7 +37,7 @@
   * [Satan  / Devil](http://www.bibleprophecytruth.com/topics/satan)
   * [Second Coming](http://www.bibleprophecytruth.com/topics/second-coming)
   * [Secret Rapture](http://www.bibleprophecytruth.com/topics/rapture)
-  * [Revelation's Angels](http://www.bibleprophecytruth.com/topics/revelations-angels)
+  * [Revelation's Angels](http://www.bibleprophecytruth.com/topics/angels)
   * [U.S.A. In Prophecy](http://www.bibleprophecytruth.com/topics/usa-in-prophecy)
 
 ## Prophetic Television and Radio ##
