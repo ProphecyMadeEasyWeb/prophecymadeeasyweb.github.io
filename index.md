@@ -14,7 +14,7 @@ That is why this site is called P.M.E. International – Prophecy Made Easy.
 
 The books, the videos, the prophetic T.V. and the Bible Courses in 10 languages make the book of Revelation EASY for you to understand!  In the first chapter of Revelation Christ has promised a special blessings to those who study Revelation. 
 
-## Did you know that over one million people needlessly lost their lives in 70 A.D. when the Roman armies under General Titus destroyed Jerusalem?
+## DID YOU KNOW THAT OVER ONE MILLION PEOPLE NEEDLESSLY LOST THEIR LIVES IN 70 A.D. WHEN THE ROMAN ARMIES UNDER GENERAL TITUS DESTROYED JERUSALEM?
 
 They perished because they didn't heed the prophetic warning given by Jesus in Luke 21.  Only those who listened and believed His warning escaped. They fled to the land of Perea.
 
