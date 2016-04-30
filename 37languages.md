@@ -1,9 +1,7 @@
 ---
 layout: page
 ---
-
-URL	Domain	Anchor
-http://www.whiteestate.org/books/gc/gc.asp	whiteestate.org	ENGLISH
+- [English](http://www.whiteestate.org/books/gc/gc.asp)
 http://www.great-controversy.org/GCSP/Conflictol.htm	great-controversy.org	?
 http://www.great-controversy.org/GCSP/Conflictol.htm	great-controversy.org	ESPANOL
 http://www.great-controversy.org/GC-3-Chapters/Philippine-Africa/GC-3Afrikaans.pdf	great-controversy.org	Afrikaans
