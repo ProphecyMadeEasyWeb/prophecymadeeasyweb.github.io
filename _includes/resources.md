@@ -33,10 +33,10 @@
   * [Death](http://www.bibleprophecytruth.com/topics/death)
   * [Heaven](http://www.bibleprophecytruth.com/topics/heaven)
   * [Hell](http://www.bibleprophecytruth.com/topics/hell)
-  * [Millennium 1,000 Years](http://www.bibleprophecytruth.com/topics/millenium)
+  * [Millennium 1,000 Years](http://www.bibleprophecytruth.com/topics/millennium)
   * [Satan  / Devil](http://www.bibleprophecytruth.com/topics/satan)
   * [Second Coming](http://www.bibleprophecytruth.com/topics/second-coming)
-  * [Secret Rapture](http://www.bibleprophecytruth.com/topics/secret-rapture)
+  * [Secret Rapture](http://www.bibleprophecytruth.com/topics/rapture)
   * [Revelation's Angels](http://www.bibleprophecytruth.com/topics/revelations-angels)
   * [U.S.A. In Prophecy](http://www.bibleprophecytruth.com/topics/usa-in-prophecy)
 
