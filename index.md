@@ -53,7 +53,7 @@ They are:
 
 Many people read the words of Jesus where He said, "unless one is born again, he cannot see the kingdom of God." They question "If I "must" be "born again," what must I do to become "Born again."  Learn to accept God's promise and be born again by reading [The Promise of Peace](http://glowonline.org/tract/promise-of-peace/)
  
-Our goal?  Our goal is to help you find a happier, better, and eternal life which will be far beyond our limited imagination!  We want to help you live forever with a life that will be far richer than any billionaire and far stronger than the imaginary "superman" of the comic books and movies.  God, Christ, the angels of God and all the saved through the ages will be part of the family of God and forever happy!  
+Our goal is to help you find a happier, better, and eternal life which will be far beyond our limited imagination!  We want to help you live forever with a life that will be far richer than any billionaire and far stronger than the imaginary "superman" of the comic books and movies.  God, Christ, the angels of God and all the saved through the ages will be part of the family of God and forever happy!  
 
 * [VIDEO - FINAL EVENTS OF BIBLE PROPHECY](http://www.youtube.com/something/)
 * [READ & LEARN – THE PROMISE OF PEACE](http://glowonline.org/tract/promise-of-peace/)
