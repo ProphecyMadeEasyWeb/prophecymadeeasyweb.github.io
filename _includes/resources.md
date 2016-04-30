@@ -16,7 +16,7 @@
   * by Uriah Smith 
   * [Download Free eBook](/pdf/DanielAndRevelation.pdf)
   * Purchase eBook from [Amazon](http://www.amazon.com/Daniel-Revelation-Uriah-Smith-ebook/dp/B0086NEVSA/)
-* What's Next
+* What's Next? Visions of Revelation
   * by Glen Walker 
   * Purchase from [Amazon](http://www.amazon.com/Whats-Next-Visions-Revelation-Walker/dp/0578073544/) or [Barnes and Noble](http://www.barnesandnoble.com/w/whats-next-visions-of-revelation-glen-a-walker/1112722100?ean=9780578073545)
 
