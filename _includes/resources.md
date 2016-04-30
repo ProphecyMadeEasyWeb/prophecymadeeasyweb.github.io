@@ -34,7 +34,19 @@
   * [3ABN Français](http://www.3abnfrancais.org/)
   * [3ABN Latino](http://3abnlatino.tv/)
   * [3ABN Russia](http://www.3abn.ru/)
-
-* HopeTV
-
+* [HopeTV](http://www.hopetv.org/)
+  *  [English](http://www.hopetv.org/watch/)
+  *  [Spanish - North and Central America](http://www.hopetv.org/watch/esperanza/)
+  *  [Spanish - South America](http://www.hopetv.org/watch/hope-channel-south-america/)
+  *  [Portuguese](http://www.hopetv.org/watch/portuguese/)
+  *  [Romanian](http://www.hopetv.org/watch/romania/)
+  *  [German](http://www.hopetv.org/watch/germany/)
+  *  [Chinese](http://www.hopetv.org/watch/chinese/)
+  *  [Middle East](http://www.hopetv.org/watch/middle-east/)
+  *  [India](http://www.hopetv.org/watch/india/)
+  *  [Norwegian](http://www.hopetv.org/watch/norwegian/)
+  *  [Russia](http://www.hopetv.org/watch/russia/)
+  *  [Ukraine](http://www.hopetv.org/watch/ukraine/)
+  *  [Poland](http://www.hopetv.org/watch/poland/)
+  *  [Africa](http://www.hopetv.org/watch/africa/)
 * [3ABN Radio](http://3abn.org/networks/3abn-radio/)
