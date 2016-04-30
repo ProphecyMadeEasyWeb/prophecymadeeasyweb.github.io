@@ -42,9 +42,10 @@
 
 ## Prophetic Television and Radio ##
 * [Three Angels Broadcasting Network](http://3abn.org)
-  * [3ABN Français](http://www.3abnfrancais.org/)
-  * [3ABN Latino](http://3abnlatino.tv/)
-  * [3ABN Russia](http://www.3abn.ru/)
+  * [3ABN English](http://3abn.org/media/3abn-broadcast/)
+  * [3ABN Français](http://3abn.org/media/3abn-francais-broadcast/)
+  * [3ABN Latino](http://3abn.org/media/3abn-latino-broadcast/)
+  * [3ABN Russia](http://3abn.org/media/3abn-russia-broadcast/)
 * [HopeTV](http://www.hopetv.org/)
   *  [English](http://www.hopetv.org/watch/)
   *  [Spanish - North and Central America](http://www.hopetv.org/watch/esperanza/)
