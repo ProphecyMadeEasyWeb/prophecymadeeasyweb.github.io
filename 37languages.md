@@ -2,6 +2,7 @@
 layout: page
 ---
 # The Great Controversy 
+
 ## between Christ and Satan
 
 ### in 37 languages 
