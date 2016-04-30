@@ -1,9 +1,14 @@
 ---
 layout: page
 ---
+# The Great Controversy 
+## between Christ and Satan
+
+### in 37 languages 
+
 - [English](http://www.whiteestate.org/books/gc/gc.asp)
-http://www.great-controversy.org/GCSP/Conflictol.htm	great-controversy.org	?
-http://www.great-controversy.org/GCSP/Conflictol.htm	great-controversy.org	ESPANOL
+- http://www.great-controversy.org/GCSP/Conflictol.htm	great-controversy.org	?
+- http://www.great-controversy.org/GCSP/Conflictol.htm	great-controversy.org	ESPANOL
 http://www.great-controversy.org/GC-3-Chapters/Philippine-Africa/GC-3Afrikaans.pdf	great-controversy.org	Afrikaans
 http://www.great-controversy.org/fr/gc_toc_fr.htm	great-controversy.org	French
 http://www.earlysda.com/polish/wielki-boj-roz0-4.html	earlysda.com	Polish
