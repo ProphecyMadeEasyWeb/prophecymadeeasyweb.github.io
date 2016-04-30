@@ -23,7 +23,7 @@
 ## Free Online Bible Studies and Videos
 
 * [Amazing Facts](http://www.amazingfacts.com "Amazing Facts")
-  * [The Final Events of Bible Prophecy](https://www.youtube.com/watch?v=Fl4VoH1i19E) 
+  * [The Final Events of Bible Prophecy (43 Minute Video)](https://www.youtube.com/watch?v=Fl4VoH1i19E) 
 * [Bible Prophecy Truth (by Amazing Facts)](http://www.bibleprophecytruth.com/ "Bible Prophecy Truth (by Amazing Facts)")
   * [Antichrist](http://www.bibleprophecytruth.com/topics/antichrist "Antichrist")
   * [Armageddon](http://www.bibleprophecytruth.com/topics/armageddon "Armageddon")
