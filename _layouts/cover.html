@@ -173,7 +173,13 @@
 	<script>var startTime = Date.now();</script>
 	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
 	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
-
+	<script id="windowResize">
+		function resizeNav() {
+			$("nav").height($(window).height());
+		}
+		$( window ).resize(resizeNav);
+		$(resizeNav);
+	</script>
 	<script id="background-loading-and-animatiom">
 	function animateAfterLoad() {
 		$('#hiddenBackground').imagesLoaded( { background: true }, function() {
