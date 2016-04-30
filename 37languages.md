@@ -7,7 +7,6 @@ layout: page
 
 ### in 37 languages 
 
-AnchorURL
  * [Bengali](http://www.earlysda.com/books/bengali-1858-great-controversy.pdf)
  * [Romanian](http://www.earlysda.com/books/romanian-1858-great-controversy.pdf)
  * [Japanese](http://www.earlysda.com/nihongo/gcn/index.html)
