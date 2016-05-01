@@ -67,7 +67,7 @@ The Bible course is fully illustrated with great art work. You will understand b
  
 * [The Final Events of Bible Prophecy - 44 Minute Video)](https://www.youtube.com/watch?v=Fl4VoH1i19E) 
 * [The Promise of Peace - How to Accept God's Promise and Be Born Again](http://glowonline.org/tract/promise-of-peace/)
-* [Free Bible Course - 24 illustrated Bible lessons](http://example.com)
+* [Free Bible Course - 24 illustrated Bible lessons](www.amazingfacts.org/bible-study/)
 
 ### BEFORE PROCEEDING PLEASE ADD THIS WEBSITE TO YOUR FAVORITES
 
