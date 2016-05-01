@@ -43,8 +43,8 @@ Rather than helping us understand Bible prophecy, popular religious novels like 
 They are:
  
 1. “Prophecy Made Easy" by Glen Walker [Read Free](/readonline.html) &bull; [Download free eBook](/pdf/ProphecyMadeEasy.pdf) &bull; [Purchase](http://www.amazon.com/Prophecy-Made-Easy-Glen-Walker/dp/0615113567/)
-2. "The Great Controversy" by E.G. White (Read free on this site). 
-3. "Daniel and Revelation" by Uriah Smith (Read free on the internet).
+2. "The Great Controversy" by E.G. White [Read free on this site](/37languages/) 
+3. "Daniel and Revelation" by Uriah Smith [Read free on this site](/DanielAndRevelation/)
 4. "What's Next? Visions of Revelation" by Glen Walker [Purchase](http://www.amazon.com/Whats-Next-Visions-Revelation-Walker/dp/0578073544/)
  
 ## PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
@@ -55,20 +55,19 @@ Many people read the words of Jesus where He said, "unless one is born again, he
  
 Our goal is to help you find a happier, better, and eternal life which will be far beyond our limited imagination!  We want to help you live forever with a life that will be far richer than any billionaire and far stronger than the imaginary "superman" of the comic books and movies.  God, Christ, the angels of God and all the saved through the ages will be part of the family of God and forever happy!  
 
-* [VIDEO - FINAL EVENTS OF BIBLE PROPHECY](http://www.youtube.com/something/)
-* [READ & LEARN – THE PROMISE OF PEACE](http://glowonline.org/tract/promise-of-peace/)
- 
 Learn direct from your Bible where these exciting future events are located in your own Bible.  
 
 1. Take the Bible course below 
 2. watch the prophetic videos 
-3. watch the prophetic television (24/7) in several languages, 
-4. read Prophecy Made Easy, and
-5. read the prophetic book in 37 languages  (It is translated into more than 80 languages and is available to read right here, right now, in 37 languages.) 
+3. watch the prophetic television (24/7) available in many languages, 
+4. [read Prophecy Made Easy](/ReadOnline.html), and
+5. [read the prophetic book in 37 languages](/37languages/)  (It is translated into more than 80 languages and is available to read right here, right now, in 37 languages.) 
  
 The Bible course is fully illustrated with great art work. You will understand better, after taking these short 24 lessons, reading the books, watching the videos and the T.V. prophecy programs than many ministers know after years of school. 
  
-[FREE BIBLE COURSE](http://example.com)
+* [The Final Events of Bible Prophecy - 44 Minute Video)](https://www.youtube.com/watch?v=Fl4VoH1i19E) 
+* [The Promise of Peace - How to Accept God's Promise and Be Born Again](http://glowonline.org/tract/promise-of-peace/)
+* [Free Bible Course - 24 illustrated Bible lessons](http://example.com)
 
 ### BEFORE PROCEEDING PLEASE ADD THIS WEBSITE TO YOUR FAVORITES
 
