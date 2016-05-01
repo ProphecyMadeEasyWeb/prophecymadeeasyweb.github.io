@@ -7,8 +7,9 @@ layout: page
 
 ### in 37 languages 
 
- * [English](http://www.whiteestate.org/books/gc/gc.asp)
- * [Spanish](http://www.great-controversy.org/GCSP/Conflictol.htm)
+### [English](http://www.whiteestate.org/books/gc/gc.asp)
+
+### [Spanish](http://www.great-controversy.org/GCSP/Conflictol.htm)
 
  * [Afrikaans](http://www.great-controversy.org/GC-3-Chapters/Philippine-Africa/GC-3Afrikaans.pdf)
  * [Arabic](http://www.great-controversy.org/Arabic/gc_all.pdf)
