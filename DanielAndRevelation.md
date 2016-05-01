@@ -6,5 +6,5 @@ layout: page
 
 ## by Uriah Smith
 
-* [Download](/pdf/DanielAndRevelation.pdf)
-* [Purchase eBook](http://www.amazon.com/Daniel-Revelation-Uriah-Smith-ebook/dp/B0086NEVSA/)
+* [Download free PDF eBook](/pdf/DanielAndRevelation.pdf)
+* [Purchase Kindle eBook](http://www.amazon.com/Daniel-Revelation-Uriah-Smith-ebook/dp/B0086NEVSA/)
