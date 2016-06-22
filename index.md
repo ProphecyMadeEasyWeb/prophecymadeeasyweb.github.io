@@ -45,7 +45,7 @@ They are:
 1. “Prophecy Made Easy" by Glen Walker [Read Free](/ReadOnline.html) &bull; [Download free eBook](/pdf/ProphecyMadeEasy.pdf) &bull; [Purchase](http://www.amazon.com/Prophecy-Made-Easy-Glen-Walker/dp/0615113567/)
 2. "The Great Controversy" by E.G. White [Read free on this site](/37languages/) 
 3. "Daniel and Revelation" by Uriah Smith [Read free on this site](/DanielAndRevelation/)
-4. "What's Next? Visions of Revelation" by Glen Walker [Purchase](http://www.amazon.com/Whats-Next-Visions-Revelation-Walker/dp/0578073544/)
+4. "What's Next? Visions of Revelation" by Glen Walker [Download free eBook](/pdf/WhatsNext-VisionsOfRevelation.pdf) &bull; [Purchase](http://www.amazon.com/Whats-Next-Visions-Revelation-Walker/dp/0578073544/)
  
 ## PME INTERNATIONAL IS DESIGNED TO ANSWER YOUR QUESTIONS! 
 
