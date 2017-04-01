@@ -23,7 +23,7 @@
 
 ## Free Online Bible Studies and Videos
 
-* [ARMAGEDDON - The Final War](/pdf/ARMAGEDDON-TheFinalWar.pdf)
+* [ARMAGEDDON - The Final War](/pdf/ARMAGEDDON-TheFinalWar.pdf) Bible Prophecy Reveals 162 future Events in preparing for and fighting Armageddon!
 * [Amazing Facts](http://www.amazingfacts.com "Amazing Facts")
   * [The Final Events of Bible Prophecy (44 Minute Video)](https://www.youtube.com/watch?v=Fl4VoH1i19E) 
 * [Bible Prophecy Truth (by Amazing Facts)](http://www.bibleprophecytruth.com/ "Bible Prophecy Truth (by Amazing Facts)")
